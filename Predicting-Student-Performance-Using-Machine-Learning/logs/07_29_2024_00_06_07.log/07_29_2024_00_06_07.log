@@ -1,0 +1,8 @@
+[ 2024-07-29 00:06:07,173 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-29 00:06:07,189 ] 97 werkzeug - INFO -  * Debugger PIN: 171-191-234
+[ 2024-07-29 00:09:38,218 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:09:38] "GET / HTTP/1.1" 200 -
+[ 2024-07-29 00:09:38,440 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:09:38] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-07-29 00:09:38,749 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:09:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-29 00:09:43,914 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:09:43] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-29 00:09:43,984 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:09:43] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-07-29 00:17:07,798 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Rajdeep\\Downloads\\Predicting-Student-Performance-Using-Machine-Learning (1)\\Predicting-Student-Performance-Using-Machine-Learning\\app.py', reloading

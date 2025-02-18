@@ -1,0 +1,20 @@
+[ 2024-07-29 00:17:14,004 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-29 00:17:14,011 ] 97 werkzeug - INFO -  * Debugger PIN: 171-191-234
+[ 2024-07-29 00:18:23,746 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:18:23] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-07-29 00:18:23,880 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:18:23] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-07-29 00:18:54,478 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:18:54] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-07-29 00:18:54,523 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:18:54] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-07-29 00:22:39,244 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:22:39] "GET / HTTP/1.1" 200 -
+[ 2024-07-29 00:22:39,506 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:22:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-07-29 00:26:53,407 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:26:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-29 00:27:06,899 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:27:06] "GET / HTTP/1.1" 200 -
+[ 2024-07-29 00:27:07,847 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:27:07] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-07-29 00:27:12,531 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:27:12] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-29 00:27:13,131 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:27:13] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-07-29 00:27:16,689 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:27:16] "GET / HTTP/1.1" 200 -
+[ 2024-07-29 00:27:17,345 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:27:17] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-07-29 00:38:06,745 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:38:06] "GET / HTTP/1.1" 200 -
+[ 2024-07-29 00:38:08,134 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:38:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-07-29 00:38:08,993 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:38:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-29 00:38:16,998 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:38:16] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-29 00:38:18,585 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/Jul/2024 00:38:18] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
